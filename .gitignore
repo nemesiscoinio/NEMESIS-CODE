@@ -1,0 +1,10 @@
+
+---
+
+### ✅ `.gitignore`
+
+```gitignore
+node_modules/
+artifacts/
+cache/
+.env
